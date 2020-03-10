@@ -12,6 +12,7 @@ django-environ = "^0.4.5"
 psycopg2 = {version = "^2.8.4", extras = ["production"]}
 sphinx = "^2.4.3"
 sphinx-rtd-theme = "^0.4.3"
+django-redis = "^4.11.0"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
